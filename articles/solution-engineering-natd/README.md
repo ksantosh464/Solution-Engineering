@@ -74,14 +74,20 @@ We expect that you have made a sincere effort in using the cloud service(s) that
 - Use any programming language of your choice while coding. Python, Java, Node.js, React.js, i.e. anything that you are comfortable with -  doesn’t matter to us.
 - It's always good practice to create a quick video of your work -just in case you run into issues.
 
-**Guidelines for Oracle Cloud Account usage:**
+***Guidelines for Oracle Cloud Account usage:***
 
 - Do not use total of more than 3 OCPU'S and 400 GB of storage.
 - You only need 1 OCPU for each PaaS service.
 - Do not use Oracle IOT Cloud service as you will easily run out of CPU counts allocated to the environment.
-- If you are running into any technical issues, Please reach out to recruiting team ONLY after you search online!.
+- ***If you are running into any technical issues, Please reach out to recruiting team ONLY after you search online!.***
 - Are you seeing an Overage issue message?. Likely you are running too many OCPUs (see the note about 3 OCPUs and storage). Stop things that you don't need and delete those instances. If your account is suspended for overage issues then drop a note to recruiting team -we will see what we can do.
 - Pay attention to service dependencies. For example:- You can't run an Analytics cloud without running a DB instance. And you need to remember what you did for setting up the DB instance (as you provide that password not us)
+
+**Oracle Cloud Login Instructions**
+- Go to https://cloud.oracle.com/en_US/sign-in
+- Enter Cloud Account Name provided by recruiter @ Cloud Account Name box
+- Click on My Services.
+- Login with provided credentials.
 
 ### **Option 2: Recent Project Presentation**
 During this presentation, we would like you to provide an overview (or demonstration) of a development project on which you have recently worked. Provide examples of the technology, programming languages, and methodologies you used during this project. Feel free to use the whiteboard or laptop available in the interview room. If you use powerpoint, please keep your presentation to approximately 5 slides. ***Please Note: If you are going to use Oracle Cloud Account and demonstrate Option 1 you DO NOT need to present your project.*** ***Also Note: we do expect to see code! :)***
