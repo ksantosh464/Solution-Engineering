@@ -2,6 +2,8 @@
 
 ***Note:*** This document is best viewed by clicking on this [github.io link](https://ksantosh464.github.io/Solution-Engineering/articles/solution-engineering-natd/index.html)
 
+##***If you are currently interviewing and using Oracle provided Cloud accounts -please READ the updated "Guidelines for Oracle Cloud Account Usage" section below**
+
 ## The Role
 Solutions Engineering is more BREADTH than depth. You take the products that have already been built - extend them with your coding skills and integrate them with other products thereby building a “SOLUTION”. **This is primarily a technical job** with client interactions (60-70% technical, 40-30% communication/business).
 
@@ -74,12 +76,12 @@ We expect that you have made a sincere effort in using the cloud service(s) that
 - Use any programming language of your choice while coding. Python, Java, Node.js, React.js, i.e. anything that you are comfortable with -  doesn’t matter to us.
 - It's always good practice to create a quick video of your work -just in case you run into issues.
 
-***Guidelines for Oracle Cloud Account usage:***
+**Guidelines for Oracle Cloud Account usage:**
 
 - Do not use total of more than 3 OCPU'S and 400 GB of storage.
 - You only need 1 OCPU for each PaaS service.
 - Do not use Oracle IOT Cloud service as you will easily run out of CPU counts allocated to the environment.
-- ***If you are running into any technical issues, Please reach out to recruiting team ONLY after you search online!.***
+- If you are running into any technical issues, Please reach out to recruiting team ONLY after you search online!.
 - Are you seeing an Overage issue message?. Likely you are running too many OCPUs (see the note about 3 OCPUs and storage). Stop things that you don't need and delete those instances. If your account is suspended for overage issues then drop a note to recruiting team -we will see what we can do.
 - Pay attention to service dependencies. For example:- You can't run an Analytics cloud without running a DB instance. And you need to remember what you did for setting up the DB instance (as you provide that password not us)
 
