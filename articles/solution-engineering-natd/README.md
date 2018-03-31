@@ -80,8 +80,8 @@ We expect that you have made a sincere effort in using the cloud service(s) that
 
 - Do not use total of more than 3 OCPU'S and 400 GB of storage.
 - You only need 1 OCPU for each PaaS service.
-- Use **cloud.admin** user instead of **lisa.jones** if you are provisioning a compute instance @ OCI (Oracle Cloud Infrastructure).
-- Do not use Oracle IOT Cloud service as you will easily run out of CPU counts allocated to the environment.
+- Use **cloud.admin** user instead of **lisa.jones** if you are planning to provision compute instance @ OCI (Oracle Cloud Infrastructure).
+- Do not use Oracle IOT Cloud service or Mobile Cloud Service as you will easily run out of CPU counts allocated to the environment.
 - If you are running into any technical issues, Please reach out to recruiting team ONLY after you search online!.
 - Are you seeing an Overage issue message?. Likely you are running too many OCPUs (see the note about 3 OCPUs and storage). Stop things that you don't need and delete those instances. If your account is suspended for overage issues then drop a note to recruiting team -we will see what we can do.
 - Pay attention to service dependencies. For example:- You can't run an Analytics cloud without running a DB instance. And you need to remember what you did for setting up the DB instance (as you provide that password not us)
