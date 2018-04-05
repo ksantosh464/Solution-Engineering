@@ -2,6 +2,8 @@
 
 ***Note:*** This document is best viewed by clicking on this [github.io link](https://ksantosh464.github.io/Solution-Engineering/articles/solution-engineering-natd/index.html)
 
+Here is the latest office hours [Video Link](https://urldefense.proofpoint.com/v2/url?u=https-3A__oraclemeetings.webex.com_oraclemeetings_ldr.php-3FRCID-3D645dadc091e6c69eace7dec56abdedee&d=DwIGaQ&c=RoP1YumCXCgaWHvlZYR8PZh8Bv7qIrMUB65eapI_JnE&r=ePtT_aararEmmN2gqh8d96sINFKlVh36QXD-gY0lnFY&m=f_GW2PUfhpWdohsuFiv7iA7DpIjZoIuv-Cpy9oL16Is&s=46ZJM7ebVoPDy8g3c4SOzaO9xHpeGATIyw2G7EMKL1w&e=)
+
 ***If you are currently interviewing and using Oracle provided Cloud accounts - Please READ the updated "Guidelines for Oracle Cloud Account Usage" section below***
 
 ## The Role
