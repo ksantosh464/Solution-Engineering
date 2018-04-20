@@ -88,6 +88,7 @@ We expect that you have made a sincere effort in using the cloud service(s) that
 - You only need 1 OCPU for each PaaS service.
 - Use **cloud.admin** user instead of **lisa.jones** if you are planning to provision compute instance @ OCI (Oracle Cloud Infrastructure).
 - Do NOT use Oracle IOT Cloud service or Big Data Cloud Service or Mobile Cloud Service as you will easily run out of CPU counts allocated to the environment.
+- If you do get locked out of your account (happens on you entering incorrect password 3 times in succession), use lisa.jones !. You can also change password to your choice once you login for the first time!. 
 - If you are running into any technical issues, Please reach out to recruiting team ONLY after you search online!.
 - Are you seeing an Overage issue message?. Likely you are running too many OCPUs (see the note about 3 OCPUs and storage). Stop things that you don't need and delete those instances. If you run into Overage issues and gets suspended, delete instances and wait for at least 4 hours for the account to unlock.
 - Pay attention to service dependencies. For example:- You can't run an Analytics cloud without running a DB instance. And you need to remember what you did for setting up the DB instance (as you provide that password not us)
