@@ -5,14 +5,14 @@
 ***If you are currently interviewing and using Oracle provided Cloud accounts - Please READ the updated "Guidelines for Oracle Cloud Account Usage" section below***
 
 ## The Role
-Solutions Engineering is more BREADTH than depth. You take the products that have already been built - extend them with your coding skills and integrate them with other products thereby building a “SOLUTION”. **This is primarily a technical job** with client interactions (60-70% technical, 40-30% communication/business).
+Solutions Engineering is more BREADTH than depth. You take the products that have already been built - extend them with your coding skills and integrate them with other products thereby building a “SOLUTION”. **This is primarily a technical job** with client interactions and we are looking for good communications and potential business acumen as well. We are a "CUSTOMER FACING" organization.
 
 For a successful solution engineer - you need the following traits
 * Strong technical skills - This is primarily a technical job with client interactions (60-70% technical, 40-30% communication/business).
 * Good communication skills - you don’t build solutions for yourself -you build them for customers and the REAL world!
-* Desire to push yourself to understand a little of lot of things (you may touch upon Machine Learning, Analytics and at the same time core database or file parsing).  This is probably the most critical -do you have the drive and motivation to learn a lot!!
-* Ability to work under tight deadlines - our projects can be 2-6-week bursts.
-* Desire to collaborate and innovate to create solutions while working to become a full-stack developer.
+* Desire to push yourself to understand a little of lot of things (you may touch upon Machine Learning, Analytics and at the same time core database or non-technical skill like project management).  This is probably the most critical -do you have the drive and motivation to learn a lot!!
+* Ability to work under tight deadlines - our projects can be 2-6-week bursts and most of them are directly driven by our customers' desire to see some capability in Oracle Cloud.
+* Desire to collaborate and innovate to create solutions.
 
 ## Interview Schedule
 
@@ -24,7 +24,7 @@ The face-to-face interview process is a technical interview outlined below:
 | --- | --- | --- |
 | Overview | 3 - 5 | Brief overview of yourself, covering your capabilities and technical experience |
 | Journey to Cloud Presentation | 15 | Brief overview of Oracle's cloud platform to a potential customer that is interested in making the journey to the cloud |
-| Tech Deep dive - Oracle Cloud Demo or Project Highlight | 15 | Brief demo on Oracle Cloud Product(s) of interest using the account that has been provided by your recruiter OR Overview of a development project on which you have recently worked |  
+| Tech Deep dive - Oracle Cloud Demo (HIGHLY PREFERRED) or Project Highlight | 15 | Brief demo on Oracle Cloud Product(s) of interest using the account that has been provided by your recruiter OR Overview of a development project on which you have recently worked |  
 | Technical Q & A Interview | 10 | Technical Question and Answer Interview - Expect to be asked about projects where you were a MAJOR contributor |
 
 ## Overview
@@ -35,10 +35,10 @@ During this presentation, we ask that you provide a brief overview of yourself, 
 
 The scenario for the presentation is one where you need to present a technical/business overview of Oracle’s cloud platform to a potential customer that is interested in making the journey to the cloud. The customer audience consists of technical and business level attendees. This customer is interested in moving to the cloud but is not sure whether it makes sense and whether Oracle is the right vendor. They are strictly on-prem today.  It is important to address both the business value and the technical value of the proposed solution.
 
-This **presentation** should be no longer than <u>**15 minutes**</u> and can be based on the content found in the links provided below. This will leave enough time for Q&A.  A [Powerpoint deck is available at this link](FY18_Candidate_Cloud_Presentation.pptx). You do not have to use this specific presentation so feel free to customize it.  We suggest that you use your own words in presenting the slides.
+This **presentation** should be no longer than <u>**15 minutes**</u> and can be based on the content found in the links provided below.A [Powerpoint deck is available at this link](FY18_Candidate_Cloud_Presentation.pptx). You do not have to use this specific presentation so feel free to customize it.  We suggest that you use your own words in presenting the slides.
 
 Key focus areas:
-- Expect the audience to ask for clarification on any content you show.
+- Expect the audience to ask for clarification on any content you show and actively INTERRUPT
 - Make sure you know the differences between DaaS, SaaS, PaaS and IaaS.
 
 Below are some links to study Oracle’s cloud platform, yet feel free to use other resources as well:
@@ -95,8 +95,8 @@ We expect that you have made a sincere effort in using the cloud service(s) that
 - Click on My Services.
 - Login with provided credentials.
 
-### **Option 2: Recent Project Presentation(Second Preference)**
-If you are planning to present your project it will NOT be equally weighted as what you do with Oracle Cloud. Please keep that in mind when selecting the project. If you use powerpoint to start, please keep your presentation to approximately 3 Slides.
+### **Option 2: Recent Project Presentation**
+If you are planning to present your project it will NOT be equally weighted as what you do with Oracle Cloud. Please keep that in mind when selecting the project as we are suggesting it only as a secondary preference. If you use powerpoint to start, please keep your presentation to approximately 3 Slides.
 **Guidelines for Project walkthrough**
 - How did you get involved in this project (We prefer individual project OR a team project that is not coursework related)
 - How big was the team (if there was one)
