@@ -70,20 +70,26 @@ Please use the Oracle cloud account provided by your recruiting coordinator.
 We expect that you have made a sincere effort in using the cloud service(s) that you select to do the following:
 
 - Show your capability to learn Oracle’s cloud services
-- Provide us with critical feedback if there were roadblocks
-- Build out a simple solution/product/project leveraging one or more Oracle Cloud services.  While we would like to see a finished product (even if it is simple), we are more interested in your approach to building things out.  
-- Suggest you look at data sets from Kaggle or other areas in public domain, leveraging REST APIs from popular non-Oracle cloud services (Maps, Twitter, Instagram, Dropbox, Box etc).  Ideally, we are looking for a full-stack development that shows us the capability to not only create front-end Apps, but also an understanding of how to connect to the backend systems.  
+- Provide us with critical feedback if there were roadblocks.
+- Build out a simple solution/product/project leveraging one or more Oracle Cloud services.  While we would like to see a finished product (even if it is simple), we are more interested in your approach to building things out.
+
+**Cloud Services Suggestions  (Feel free to try more than one if you have time):**
+
+- Use for IAAS compute instance and may be MySQL instance to create a 3 or 2-tier web app.  
+- Look at data sets from Kaggle or other areas in public domain, leveraging REST APIs from popular non-Oracle cloud services (Maps, Twitter, Instagram, Dropbox, Box etc).  
 - Use any programming language of your choice while coding. Python, Java, Node.js, React.js, i.e. anything that you are comfortable with -  doesn’t matter to us.
+-  Use Oracle Analytics Cloud and create visualizations
 - It's always good practice to create a quick video of your work -just in case you run into issues.
+- To net this OUT - Even if you are unable to get something deployed in our Cloud -we will look for EFFORT here OVER showcasing a PROJECT
 
 **Guidelines for Oracle Cloud Account usage:**
 
 - Do not use total of more than 3 OCPU'S and 400 GB of storage.
 - You only need 1 OCPU for each PaaS service.
 - Use **cloud.admin** user instead of **lisa.jones** if you are planning to provision compute instance @ OCI (Oracle Cloud Infrastructure).
-- Do not use Oracle IOT Cloud service or Mobile Cloud Service as you will easily run out of CPU counts allocated to the environment.
+- Do NOT use Oracle IOT Cloud service or Big Data Cloud Service or Mobile Cloud Service as you will easily run out of CPU counts allocated to the environment.
 - If you are running into any technical issues, Please reach out to recruiting team ONLY after you search online!.
-- Are you seeing an Overage issue message?. Likely you are running too many OCPUs (see the note about 3 OCPUs and storage). Stop things that you don't need and delete those instances. If your account is suspended for overage issues then drop a note to recruiting team -we will see what we can do.
+- Are you seeing an Overage issue message?. Likely you are running too many OCPUs (see the note about 3 OCPUs and storage). Stop things that you don't need and delete those instances. If you run into Overage issues and gets suspended, delete instances and wait for at least 4 hours for the account to unlock.
 - Pay attention to service dependencies. For example:- You can't run an Analytics cloud without running a DB instance. And you need to remember what you did for setting up the DB instance (as you provide that password not us)
 
 **Oracle Cloud Login Instructions**
@@ -92,13 +98,13 @@ We expect that you have made a sincere effort in using the cloud service(s) that
 - Click on My Services.
 - Login with provided credentials.
 
-### **Option 2: Recent Project Presentation**
-During this presentation, we would like you to provide an overview (or demonstration) of a development project on which you have recently worked. Provide examples of the technology, programming languages, and methodologies you used during this project. Feel free to use the whiteboard or laptop available in the interview room. If you use powerpoint, please keep your presentation to approximately 5 slides. ***Please Note: If you are going to use Oracle Cloud Account and demonstrate Option 1 you DO NOT need to present your project.*** ***Also Note: we do expect to see code! :)***
+### **Option 2: Recent Project Presentation(Second Preference)**
+If you are planning to present your project it will NOT be equally weighted as what you do with Oracle Cloud. Please keep that in mind when selecting the project. If you use powerpoint to start, please keep your presentation to approximately 3 Slides.
 
 **Guidelines for Project walkthrough**
-- How did you get involved in this project (could be part of a course or internship or your own personal interest or other)
+- How did you get involved in this project (We prefer individual project OR a team project that is not coursework related)
 - How big was the team (if there was one)
-- What is your specific role and contribution ( For example: I coded front-end and collected requirements for project OR I coded some piece of the front-end)
+- What is your specific role and contribution ( For example: I coded front-end and collected requirements for project OR I coded some piece of the front-end) We are looking for "I" not "WE"
 - Walk through the code ( whatever the code may be - this could be methods you may have written, or if you used R-Studio -show us what you did in R)
 	- Any libraries you used or didn’t use
 	- Any coding challenges
