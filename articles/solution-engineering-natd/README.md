@@ -55,10 +55,6 @@ Below are some links to study Oracle’s cloud platform, yet feel free to use ot
 
 ![Touch The Cloud](./images/Touch-the-Cloud.jpg)
 
-**Touch the Cloud Presentation Overview**:
-
-During this presentation, we ask that you provide a brief summary of the Oracle Cloud Products you have investigated and that you feel are of interest and relevance. You can find the information you need from Oracle's main [Cloud Home Page](https://cloud.oracle.com/) website. From this website you can investigate Oracle's three categories of Cloud Offerings: [Platform as a Service](https://cloud.oracle.com/en_US/paas), [Infrastructure as a Service](https://cloud.oracle.com/en_US/iaas) and [Software as a Service](https://cloud.oracle.com/en_US/saas). Note: The job for which you are applying will focus primarily on **Platform as a Service** and **Infrastructure as a Service**.  
-
 In this section of the interview, you will select **a single option** from the 2 options below. **Remember: You only have 15 Minutes!**
 
 ### **Option 1: Demo Using Oracle Cloud Account (Preferred)**
@@ -88,7 +84,7 @@ We expect that you have made a sincere effort in using the cloud service(s) that
 - You only need 1 OCPU for each PaaS service.
 - Use **cloud.admin** user instead of **lisa.jones** if you are planning to provision compute instance @ OCI (Oracle Cloud Infrastructure).
 - Do NOT use Oracle IOT Cloud service or Big Data Cloud Service or Mobile Cloud Service as you will easily run out of CPU counts allocated to the environment.
-- If you do get locked out of your account (happens on you entering incorrect password 3 times in succession), use lisa.jones !. You can also change password to your choice once you login for the first time!. 
+- If you do get locked out of your account (happens on you entering incorrect password 3 times in succession), use lisa.jones !. You can also change password to your choice once you login for the first time!.
 - If you are running into any technical issues, Please reach out to recruiting team ONLY after you search online!.
 - Are you seeing an Overage issue message?. Likely you are running too many OCPUs (see the note about 3 OCPUs and storage). Stop things that you don't need and delete those instances. If you run into Overage issues and gets suspended, delete instances and wait for at least 4 hours for the account to unlock.
 - Pay attention to service dependencies. For example:- You can't run an Analytics cloud without running a DB instance. And you need to remember what you did for setting up the DB instance (as you provide that password not us)
@@ -101,7 +97,6 @@ We expect that you have made a sincere effort in using the cloud service(s) that
 
 ### **Option 2: Recent Project Presentation(Second Preference)**
 If you are planning to present your project it will NOT be equally weighted as what you do with Oracle Cloud. Please keep that in mind when selecting the project. If you use powerpoint to start, please keep your presentation to approximately 3 Slides.
-
 **Guidelines for Project walkthrough**
 - How did you get involved in this project (We prefer individual project OR a team project that is not coursework related)
 - How big was the team (if there was one)
