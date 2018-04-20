@@ -40,6 +40,7 @@ This **presentation** should be no longer than <u>**15 minutes**</u> and can be 
 Key focus areas:
 - Expect the audience to ask for clarification on any content you show and actively INTERRUPT
 - Make sure you know the differences between DaaS, SaaS, PaaS and IaaS.
+- Do NOT read out of your notes!.  
 
 Below are some links to study Oracle’s cloud platform, yet feel free to use other resources as well:
 
@@ -71,7 +72,7 @@ We expect that you have made a sincere effort in using the cloud service(s) that
 
 **Cloud Services Suggestions  (Feel free to try more than one if you have time):**
 
-- Use for IAAS compute instance and may be MySQL instance to create a 3 or 2-tier web app.  
+- Use an IAAS compute instance (we welcome OS variants -Windows or Linux) and may be MySQL instance to create a 3 or 2-tier web app.  
 - Look at data sets from Kaggle or other areas in public domain, leveraging REST APIs from popular non-Oracle cloud services (Maps, Twitter, Instagram, Dropbox, Box etc).  
 - Use any programming language of your choice while coding. Python, Java, Node.js, React.js, i.e. anything that you are comfortable with -  doesn’t matter to us.
 -  Use Oracle Analytics Cloud and create visualizations
@@ -81,6 +82,7 @@ We expect that you have made a sincere effort in using the cloud service(s) that
 **Guidelines for Oracle Cloud Account usage:**
 
 - Do not use total of more than 3 OCPU'S and 400 GB of storage.
+- Do NOT get yourself LOCKED OUT!. We get a LOT of emails for this issue - you likely have typed in the password correctly. If you do get locked out - use  user "lisa.jones" to login back again.  
 - You only need 1 OCPU for each PaaS service.
 - Use **cloud.admin** user instead of **lisa.jones** if you are planning to provision compute instance @ OCI (Oracle Cloud Infrastructure).
 - Do NOT use Oracle IOT Cloud service or Big Data Cloud Service or Mobile Cloud Service as you will easily run out of CPU counts allocated to the environment.
