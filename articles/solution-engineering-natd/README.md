@@ -1,16 +1,15 @@
-# Solution Engineering North American Technology Division Interviews
+# Solution Engineering: Oracle Cloud Solution Hubs Interviews
 
 ***Note:*** This document is best viewed by clicking on this [github.io link](https://ksantosh464.github.io/Solution-Engineering/articles/solution-engineering-natd/index.html)
 
-***If you are currently interviewing and using Oracle provided Cloud accounts - Please READ the updated "Guidelines for Oracle Cloud Account Usage" section below***
 
 ## The Role
-Solutions Engineering is more BREADTH than depth. You take the products that have already been built - extend them with your coding skills and integrate them with other products thereby building a “SOLUTION”. **This is primarily a technical job** with client interactions and we are looking for good communications and potential business acumen as well. We are a "CUSTOMER FACING" organization.
+Solutions Engineering is more BREADTH than depth. You take the products that have already been built, extend them with your coding skills and iintegrate them with other products, thereby building a **solution**. **This is primarily a technical job** with client interactions, and we are looking for good communications and potential business acumen as well. We are a **customer-facing** organization.
 
-For a successful solution engineer - you need the following traits
+For a successful solution engineer, you need the following traits:
 * Strong technical skills
-* Good communication skills - you don’t build solutions for yourself -you build them for customers and the REAL world!
-* Desire to push yourself to understand a little of lot of things (you may touch upon Machine Learning, Analytics and at the same time core database or non-technical skill like project management).  This is probably the most critical -do you have the drive and motivation to learn a lot!!
+* Good communication skills - you don’t build solutions for yourself; you build them for customers and the **real world**.
+* Desire to push yourself to understand a little of lot of things (you may touch upon Machine Learning, Analytics and at the same time core database or non-technical skill like project management).  This is probably the most critical -do you have the drive and motivation to learn a lot?
 * Ability to work under tight deadlines - our projects can be 2-6-week bursts and most of them are directly driven by our customers' desire to see some capability in Oracle Cloud.
 * Desire to collaborate and innovate to create solutions.
 
@@ -24,7 +23,7 @@ The face-to-face interview process is a technical interview outlined below:
 | --- | --- | --- |
 | Overview | 3 - 5 | Brief overview of yourself, covering your capabilities and technical experience |
 | Journey to Cloud Presentation | 15 | Brief overview of Oracle's cloud platform to a potential customer that is interested in making the journey to the cloud |
-| Tech Deep dive - Oracle Cloud Demo (HIGHLY PREFERRED) or Project Highlight | 15 | Brief demo on Oracle Cloud Product(s) of interest using the account that has been provided by your recruiter OR Overview of a development project on which you have recently worked |  
+| Tech Deep Dive: Project Highlight or Oracle Cloud Demo | 15 | Overview of a development project on which you have recently worked OR brief demo on Oracle Cloud Product(s) of interest using a [free Oracle Cloud Account](https://cloud.oracle.com/tryit?sourceType=:ad:pas:go:aw:db:RC_WWMK180328P00048C0001&SC=:ad:pas:go:aw:db:RC_WWMK180328P00048C0001&pcode=WWMK180328P00048C0001&&mkwid=sxCyDKsb2%7cpcrid%7c263478509230%7cpkw%7cautonomous%20database%7cpmt%7ce%7cpdv%7cc%7csckw=srch:autonomous%20database&gclid=EAIaIQobChMIpsPRn5L_3QIVy0oNCh3nAQ3rEAAYAiAAEgIm5PD_BwE&gclsrc=aw.ds) |  
 | Technical Q & A Interview | 10 | Technical Question and Answer Interview - Expect to be asked about projects where you were a MAJOR contributor |
 
 ## Overview
