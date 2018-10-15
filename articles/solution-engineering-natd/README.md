@@ -32,19 +32,18 @@ During this presentation, we ask that you provide a brief overview of yourself, 
 
 ## Journey to Cloud: Presentation
 
-The scenario for the presentation is one where you need to present a technical/business overview of Oracle’s cloud platform to a potential customer that is interested in making the journey to the cloud. The customer audience consists of technical and business level attendees. This customer is interested in moving to the cloud but is not sure whether it makes sense and whether Oracle is the right vendor.  It is important to address both the business value and the technical value of the proposed solution.
+The scenario for the presentation is one where you need to present a technical/business overview of Oracle’s Cloud platform to a potential customer that is interested in making the journey to the cloud. The customer audience consists of technical and business-level attendees. This customer is interested in moving to the cloud but is not sure whether it makes sense and whether Oracle is the right vendor. It is important to address both the business value and the technical value of the proposed solution.
 
 This **presentation** should be no longer than <u>**15 minutes**</u> and can be based on the content found in the links provided below.A [Powerpoint deck is available at this link](FY18_Candidate_Cloud_Presentation.pptx). You do not have to use this specific presentation so feel free to customize it.  We suggest that you use your own words in presenting the slides.
 
 Key focus areas:
-- Expect the audience to ask for clarification on any content you show and actively INTERRUPT
+- Expect the audience to ask for clarification on any content you show and **actively interrupt**
 - Make sure you know the differences between DaaS, SaaS, PaaS and IaaS.
 - Do NOT read out of your notes!.  
 
 Below are some links to study Oracle’s cloud platform, yet feel free to use other resources as well:
 
 - [http://Oracle.com/cloud](http://Oracle.com/cloud)
-- [https://www.oracle.com/cloud/cloud-summary.html](https://www.oracle.com/cloud/cloud-summary.html)
 - [https://www.oracle.com/applications/customer-experience/data-cloud/solutions/data-as-a-service/index.html](https://www.oracle.com/applications/customer-experience/data-cloud/solutions/data-as-a-service/index.html)
 - [https://www.oracle.com/cloud/saas.html](https://www.oracle.com/cloud/saas.html)
 - [https://www.oracle.com/cloud/paas.html](https://www.oracle.com/cloud/paas.html)
@@ -55,15 +54,27 @@ Below are some links to study Oracle’s cloud platform, yet feel free to use ot
 
 ![Touch The Cloud](./images/Touch-the-Cloud.jpg)
 
-In this section of the interview, you will select **a single option** from the 2 options below. **Remember: You only have 15 Minutes!**
+In this section of the interview, you will select **a single option** from the 2 options below. **Remember: You only have 15 minutes**
 
-### **Option 1: Demo Using Oracle Cloud Account (Preferred)**
+### **Option 1: Recent Project Presentation**
+If you use PowerPoint to start, please keep your presentation to approximately 3 Slides.
+**Guidelines for Project Walkthroughh**
+- How did you get involved in this project?  We prefer an individual project OR a team project that is not coursework-related
+- How big was the team (if there was one)
+- What was your specific role and contribution (e.g, I coded front-end and collected requirements for project OR I coded some piece of the front-end)? We are looking for "I" not "WE."
+- Walk through the code ( whatever the code may be - this could be methods you may have written, or if you used R-Studio, show us what you did in R)
+	- Any libraries you used or didn’t use
+	- Any coding challenges
+	- Was any DevOps process used (this is more likely for internships)
+	- Is there a GitHub where we can look at this code
 
-Please use the Oracle cloud account provided by your recruiting coordinator.
+### **Option 2: Demo Using Oracle Cloud Account**
+
+Please follow [this link](https://cloud.oracle.com/tryit?sourceType=:ad:pas:go:aw:db:RC_WWMK180328P00048C0001&SC=:ad:pas:go:aw:db:RC_WWMK180328P00048C0001&pcode=WWMK180328P00048C0001&&mkwid=sxCyDKsb2%7cpcrid%7c263478509230%7cpkw%7cautonomous%20database%7cpmt%7ce%7cpdv%7cc%7csckw=srch:autonomous%20database&gclid=EAIaIQobChMIpsPRn5L_3QIVy0oNCh3nAQ3rEAAYAiAAEgIm5PD_BwE&gclsrc=aw.ds) to sign up for a free Oracle trial account.
 
 **Expectation:**
 
-We expect that you have made a sincere effort in using the cloud service(s) that you select to do the following:
+We expect that you have made a sincere effort in using the cloud service(s) if you select to do use this option:
 
 - Show your capability to learn Oracle’s cloud services
 - Provide us with critical feedback if there were roadblocks.
@@ -74,39 +85,15 @@ We expect that you have made a sincere effort in using the cloud service(s) that
 - Use an IAAS compute instance (we welcome OS variants -Windows or Linux) and may be MySQL instance to create a 3 or 2-tier web app.  
 - Look at data sets from Kaggle or other areas in public domain, leveraging REST APIs from popular non-Oracle cloud services (Maps, Twitter, Instagram, Dropbox, Box etc).  
 - Use any programming language of your choice while coding. Python, Java, Node.js, React.js, i.e. anything that you are comfortable with -  doesn’t matter to us.
--  Use Oracle Analytics Cloud and create visualizations
+- Use Oracle Analytics Cloud and create visualizations
 - It's always good practice to create a quick video of your work -just in case you run into issues.
-- To net this OUT - Even if you are unable to get something deployed in our Cloud -we will look for EFFORT here OVER showcasing a PROJECT
-
-**Guidelines for Oracle Cloud Account usage:**
-
-- Do not use total of more than 3 OCPU'S and 400 GB of storage.
-- Do NOT get yourself LOCKED OUT!. We get a LOT of emails for this issue - you likely have typed in the password correctly. If you do get locked out - use  user "lisa.jones" to login back again.  
-- You only need 1 OCPU for each PaaS service.
-- Use **cloud.admin** user instead of **lisa.jones** if you are planning to provision compute instance @ OCI (Oracle Cloud Infrastructure).
-- Do NOT use Oracle IOT Cloud service or Big Data Cloud Service or Mobile Cloud Service as you will easily run out of CPU counts allocated to the environment.
-- If you do get locked out of your account (happens on you entering incorrect password 3 times in succession), use lisa.jones !. You can also change password to your choice once you login for the first time!.
-- If you are running into any technical issues, Please reach out to recruiting team ONLY after you search online!.
-- Are you seeing an Overage issue message?. Likely you are running too many OCPUs (see the note about 3 OCPUs and storage). Stop things that you don't need and delete those instances. If you run into Overage issues and gets suspended, delete instances and wait for at least 4 hours for the account to unlock.
-- Pay attention to service dependencies. For example:- You can't run an Analytics cloud without running a DB instance. And you need to remember what you did for setting up the DB instance (as you provide that password not us)
+- To net this out, even if you are unable to get something deployed in our Cloud, we will look for the effort that you’ve taken here.
 
 **Oracle Cloud Login Instructions**
 - Go to https://cloud.oracle.com/en_US/sign-in
 - Enter Cloud Account Name provided by recruiter @ Cloud Account Name box
 - Click on My Services.
 - Login with provided credentials.
-
-### **Option 2: Recent Project Presentation**
-If you are planning to present your project it will NOT be equally weighted as what you do with Oracle Cloud. Please keep that in mind when selecting the project as we are suggesting it only as a secondary preference. If you use powerpoint to start, please keep your presentation to approximately 3 Slides.
-**Guidelines for Project walkthrough**
-- How did you get involved in this project (We prefer individual project OR a team project that is not coursework related)
-- How big was the team (if there was one)
-- What is your specific role and contribution ( For example: I coded front-end and collected requirements for project OR I coded some piece of the front-end) We are looking for "I" not "WE"
-- Walk through the code ( whatever the code may be - this could be methods you may have written, or if you used R-Studio -show us what you did in R)
-	- Any libraries you used or didn’t use
-	- Any coding challenges
-	- Was any DevOps process used (this is more likely for internships)
-	- Is there a GitHub that we can look at this code
 
 ## Technical Question and Answer Interview
 
@@ -115,4 +102,4 @@ During this section of the interview we will ask technical questions based on yo
 ## Visual Aids
 
 - The interview room will be furnished with a whiteboard and laptop that you can use to present your **Journey to Cloud** and **Touch the Cloud** Presentations.
-- Oracle Supplied Laptop: We will have a laptop and projector available for your use. The laptop will have connectivity to the internet, and you can bring a USB drive if you desire to load a presentation to the laptop.
+- Oracle Supplied Laptop: For in-person interviews, we will have a laptop and projector available for your use. The laptop will have connectivity to the internet, and you can bring a USB drive if you desire to load a presentation to the laptop.
