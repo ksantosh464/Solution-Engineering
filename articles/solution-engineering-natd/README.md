@@ -7,7 +7,7 @@
 Solutions Engineering is more BREADTH than depth. You take the products that have already been built, extend them with your coding skills and iintegrate them with other products, thereby building a **solution**. **This is primarily a technical job** with client interactions, and we are looking for good communications and potential business acumen as well. We are a **customer-facing** organization.
 
 For a successful solution engineer, you need the following traits:
-* Strong technical skills
+* Strong technical skills.
 * Good communication skills - you don’t build solutions for yourself; you build them for customers and the **real world**.
 * Desire to push yourself to understand a little of lot of things (you may touch upon Machine Learning, Analytics and at the same time core database or non-technical skill like project management).  This is probably the most critical -do you have the drive and motivation to learn a lot?
 * Ability to work under tight deadlines - our projects can be 2-6-week bursts and most of them are directly driven by our customers' desire to see some capability in Oracle Cloud.
@@ -38,8 +38,8 @@ This **presentation** should be no longer than <u>**15 minutes**</u> and can be 
 
 Key focus areas:
 - Expect the audience to ask for clarification on any content you show and **actively interrupt**
-- Make sure you know the differences between DaaS, SaaS, PaaS and IaaS.
-- Do NOT read out of your notes!.  
+- Make sure you know the differences between DaaS, SaaS, PaaS and IaaS
+- Do NOT read out of your notes  
 
 Below are some links to study Oracle’s cloud platform, yet feel free to use other resources as well:
 
@@ -58,6 +58,7 @@ In this section of the interview, you will select **a single option** from the 2
 
 ### **Option 1: Recent Project Presentation**
 If you use PowerPoint to start, please keep your presentation to approximately 3 Slides.
+
 **Guidelines for Project Walkthroughh**
 - How did you get involved in this project?  We prefer an individual project OR a team project that is not coursework-related
 - How big was the team (if there was one)
