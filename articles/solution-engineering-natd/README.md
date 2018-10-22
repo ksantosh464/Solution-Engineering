@@ -11,7 +11,7 @@ In order to be a successful solution engineer, you should possess the following 
 * Good communication skills - you don’t build solutions for yourself; you build them for customers and the **real world**. You also need to be able to communicate the technical details and business value of the solutions you build.
 * Desire to push yourself to understand technology. You must have drive and motivation to always be curious, continually learning and applying what you learn.
 * You must have the ability to work under tight deadlines - our projects can be 2-6-weeks long, and most of them are directly driven by our customers' desire to see what is possible in the Oracle Cloud.
-* Desire to collaborate and innovate, be open to other ideas, inclusive in a team setting, and to create customer-relevant solutions.
+* Desire to collaborate and innovate, be open to other ideas, be inclusive in a team setting, and to create customer-relevant solutions.
 
 ## Interview Process
 
@@ -34,7 +34,7 @@ During this presentation, provide a brief overview of yourself, including your t
 
 The scenario for the presentation is one where you need to present a technical/business overview of Oracle’s Cloud platform to a potential customer that is interested in making the journey to the cloud. Assume the customer audience consists of technical and business-level attendees. This customer is interested in moving to the cloud but is not sure whether it is the right move and whether Oracle is the right vendor. It is important to address both the business value and the technical value of the proposed solution.
 
-This **presentation** should be no longer than <u>**15 minutes**</u> and can be based on the content found in the links provided below.A [PowerPoint deck is available at this link](FY20_Candidate_Cloud_Presentation.pptx). You do not have to use this specific presentation so feel free to customize it.  We suggest that you use your own words in presenting the slides.
+This **presentation** should be no longer than <u>**15 minutes**</u> and can be based on the content found in the links provided below. A [PowerPoint deck is available at this link](FY20_Candidate_Cloud_Presentation.pptx). You do not have to use this specific presentation so feel free to customize it. We suggest that you use your own words in presenting the slides.
 
 Key focus areas:
 - Expect your audience to ask for clarification on any content you show and **actively interrupt you**.
